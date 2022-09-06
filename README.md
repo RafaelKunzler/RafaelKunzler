@@ -5,8 +5,8 @@
 - 👨‍🎓 Em busca do meu primeiro estágio!
 
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelKunzler&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelKunzler&layout=compact&langs_count=7&theme=material-palenight&hide_border=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RafaelKunzler&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelKunzler&layout=compact&langs_count=7&theme=material-palenight&hide_border=true"/>
 
 <img align="right" alt="rafa" width="150px" src="https://cdn.discordapp.com/attachments/966316114386759680/1016786094366392350/naruto_walk_GIF.gif">
 
