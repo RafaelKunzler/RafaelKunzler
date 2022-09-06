@@ -11,7 +11,10 @@
 <img align="right" alt="rafa" width="150px" src="https://cdn.discordapp.com/attachments/301839436411568129/1016791310021185677/naruto-walk-GIF-unscreen.gif">
 
   <br />
+  <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+   <img align="center" alt="Rafa-Vs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
+</div>
 
 ##
 
