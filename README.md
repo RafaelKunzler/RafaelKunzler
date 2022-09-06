@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente faço projetos em C#
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
+- 👨‍🎓 Em busca do meu primeiro estágio!
 
 <div align="center">
   <a href="https://github.com/RafaelKunzler">
