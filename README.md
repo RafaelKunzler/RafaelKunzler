@@ -1,4 +1,4 @@
-## Olá, eu sou o Rafael Künzler!
+## Olá, eu sou o Rafael! 
 
 - 🔭 Atualmente faço projetos em C#
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
@@ -12,6 +12,7 @@
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://freight.cargo.site/w/750/i/e995cdbeeaf928355de6243e6ec309e640589e2f8b2e5cbe0e7f4bc4f0284a2a/naruto_walk_GIF.gif">
 </div>
 
 ##
