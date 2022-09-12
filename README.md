@@ -1,7 +1,7 @@
 ## Olá, eu sou o Rafael! 
 
-- 🔭 Atualmente faço projetos em C#
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas
+- 🔭 Atualmente estou estudando Front End com o The Odin Project.
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas na Anhanguera.
 - 👨‍🎓 Em busca do meu primeiro estágio!
 
 
@@ -14,6 +14,8 @@
   <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
    <img align="center" alt="Rafa-Vs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
+   <img align="center" alt="Rafa-Vs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+   <img align="center" alt="Rafa-Vs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
 
 ##
