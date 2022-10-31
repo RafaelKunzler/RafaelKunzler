@@ -1,6 +1,6 @@
 ## Olá, eu sou o Rafael! 
 
-- 🔭 Atualmente estou estudando Front End com o The Odin Project.
+- 🔭 Atualmente estou estudando Desenvolvimento Web com o The Odin Project.
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na Anhanguera.
 - 👨‍🎓 Em busca do meu primeiro estágio!
 
