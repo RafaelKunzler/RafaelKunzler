@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou estudando Desenvolvimento Web com o The Odin Project.
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na Anhanguera.
-- 👨‍🎓 Em busca do meu primeiro estágio!
+- 👨‍🎓 Em busca de estágio!
 
 
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RafaelKunzler&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true"/>
