@@ -1,8 +1,8 @@
 ## Olá, eu sou o Rafael! 
 
 - 🔭 Programador React
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas na Anhanguera.
-- 👨‍🎓 Em busca da minha primeira oportunidade de emprego na área!
+- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 💼 Open to Work!
 
 
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RafaelKunzler&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true"/>
