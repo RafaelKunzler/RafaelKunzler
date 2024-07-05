@@ -1,7 +1,7 @@
 ## Olá, eu sou o Rafael! 
 
 - 🔭 Programador React
-- 👨‍🎓 Formação em Análise e Desenvolvimento de Sistemas.
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 💼 Open to Work!
 
 
