@@ -1,25 +1,27 @@
-## Olá, eu sou o Rafael! 
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-- 🔭 Programador React
-- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
-- 💼 Open to Work!
+I’m [**Rafael**](https://my-portfolio-opal-seven-68.vercel.app), a web developer based in Brazil. I like building clean, modern interfaces, improving my problem-solving skills and turning ideas into functional projects.
 
+**These days I’m focused on:**
+- React, JavaScript, and modern front-end fundamentals
+- Astro and building fast, content-focused websites
+- Small, thoughtful projects with polish
 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RafaelKunzler&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelKunzler&layout=compact&langs_count=7&theme=material-palenight&hide_border=true"/>
+---
 
-<img align="right" alt="rafa" width="150px" src="https://cdn.discordapp.com/attachments/301839436411568129/1016791310021185677/naruto-walk-GIF-unscreen.gif">
+**Some stuff I built:**
+- [My Portfolio](https://github.com/RafaelKunzler/My-Portfolio) - My personal portfolio built with Astro, featuring a connected database for a message board where visitors can leave notes. 
+- [Fit Flavors](https://github.com/RafaelKunzler/Fit-Flavors) - A recipe creation and storage website where you can organize your favorite meals. 
+- [Resume Builder](https://github.com/RafaelKunzler/Resume-Builder) - A form-based website that generates a clean PDF resume automatically. Fill it out, click a button, and boom you’re job-ready.
+- [Weather App](https://github.com/RafaelKunzler/Weather-App-2) - A weather forecast app that consumes an external API and shows today’s and weekly forecasts.
+- [Rock Paper Scissors](https://github.com/RafaelKunzler/TheOdinProject/tree/main/3.Rock%20Paper%20Scissors) - My very first project: a classic rock-paper-scissors game built with pure logic and enthusiasm. Simple, fun, and the beginning of everything.
 
-  <br />
-  <div style="display: inline_block"><br>   
-   <img align="center" alt="Rafa-Vs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-   <img align="center" alt="Rafa-Vs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-   <img align="center" alt="Rafa-Vs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-   <img align="center" alt="Rafa-Vs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-</div>
+---
 
-##
+**Fun Facts:**
 
-  <a href = "mailto:rafaelkunzler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-rodrigues-do-patroc%C3%ADnio-nunes-3984921a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+* I like slow mornings with coffee ☕
+* I used to work as a tattoo artist
+* I crochet (yes, really)
+* Cyberpunk: Edgerunners left me emotionally damaged
+* **Hobbies:** anime, reading & gym
